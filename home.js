@@ -17,11 +17,11 @@ let tl6 = gsap.timeline({
 });
 
 tl6.fromTo(".maja-word-jeg", {
-	color: "#c4c4c4",
+	color: "#d33643",
 	duration: 0.5,
     }, 
     {
-     	color: "#202020",
+     	color: "#fdf5dc",
      	duration: 0.5,
     });
 
@@ -35,11 +35,11 @@ let tl7 = gsap.timeline({
 });
 
 tl7.fromTo(".maja-word-har", {
-     	color: "#c4c4c4",
+	color: "#d33643",
 	duration: 0.5,
     }, 
     {
-     	color: "#202020",
+     	color: "#fdf5dc",
      	duration: 0.5,
     });
 
@@ -52,12 +52,12 @@ let tl8 = gsap.timeline({
 });
 
 tl8.fromTo(".maja-word-stiftet", {
-     color: "#c4c4c4",
-		 duration: 0.5,
+	color: "#d33643",
+	duration: 0.5,
     }, 
     {
-     color: "#202020",
-     duration: 0.5,
+     	color: "#fdf5dc",
+     	duration: 0.5,
     });
 
 let tl9 = gsap.timeline({
@@ -69,12 +69,12 @@ let tl9 = gsap.timeline({
 });
 
 tl9.fromTo(".maja-word-i", {
-     color: "#c4c4c4",
-		 duration: 0.5,
+	color: "#d33643",
+	duration: 0.5,
     }, 
     {
-     color: "#202020",
-     duration: 0.5,
+     	color: "#fdf5dc",
+     	duration: 0.5,
     });
     
 let tl10 = gsap.timeline({
@@ -86,12 +86,12 @@ let tl10 = gsap.timeline({
 });
 
 tl10.fromTo(".maja-word-do", {
-     color: "#c4c4c4",
-		 duration: 0.5,
+	color: "#d33643",
+	duration: 0.5,
     }, 
     {
-     color: "#202020",
-     duration: 0.5,
+     	color: "#fdf5dc",
+     	duration: 0.5,
     });
     
 let tl11 = gsap.timeline({
@@ -103,12 +103,12 @@ let tl11 = gsap.timeline({
 });
 
 tl11.fromTo(".maja-word-weddings", {
-     color: "#c4c4c4",
-		 duration: 0.5,
+	color: "#d33643",
+	duration: 0.5,
     }, 
     {
-     color: "#202020",
-     duration: 0.5,
+     	color: "#fdf5dc",
+     	duration: 0.5,
     });
 
 let tl12 = gsap.timeline({
@@ -120,12 +120,12 @@ let tl12 = gsap.timeline({
 });
 
 tl12.fromTo(".maja-word-med-first", {
-     color: "#c4c4c4",
-		 duration: 0.5,
+	color: "#d33643",
+	duration: 0.5,
     }, 
     {
-     color: "#202020",
-     duration: 0.5,
+     	color: "#fdf5dc",
+     	duration: 0.5,
     });
 
 let tl13 = gsap.timeline({
@@ -137,12 +137,12 @@ let tl13 = gsap.timeline({
 });
 
 tl13.fromTo(".maja-word-det", {
-     color: "#c4c4c4",
-		 duration: 0.5,
+	color: "#d33643",
+	duration: 0.5,
     }, 
     {
-     color: "#202020",
-     duration: 0.5,
+     	color: "#fdf5dc",
+     	duration: 0.5,
     });
     
 let tl14 = gsap.timeline({
@@ -154,12 +154,12 @@ let tl14 = gsap.timeline({
 });
 
 tl14.fromTo(".maja-word-formal", {
-     color: "#c4c4c4",
-		 duration: 0.5,
+	color: "#d33643",
+	duration: 0.5,
     }, 
     {
-     color: "#202020",
-     duration: 0.5,
+     	color: "#fdf5dc",
+     	duration: 0.5,
     });
 
 let tl15 = gsap.timeline({
@@ -171,12 +171,12 @@ let tl15 = gsap.timeline({
 });
 
 tl15.fromTo(".maja-word-at-first", {
-     color: "#c4c4c4",
-		 duration: 0.5,
+	color: "#d33643",
+	duration: 0.5,
     }, 
     {
-     color: "#202020",
-     duration: 0.5,
+     	color: "#fdf5dc",
+     	duration: 0.5,
     });
     
 let tl16 = gsap.timeline({
@@ -188,12 +188,12 @@ let tl16 = gsap.timeline({
 });
 
 tl16.fromTo(".maja-word-hjalpe", {
-     color: "#c4c4c4",
-		 duration: 0.5,
+	color: "#d33643",
+	duration: 0.5,
     }, 
     {
-     color: "#202020",
-     duration: 0.5,
+     	color: "#fdf5dc",
+     	duration: 0.5,
     });
 
 let tl17 = gsap.timeline({
@@ -205,12 +205,12 @@ let tl17 = gsap.timeline({
 });
 
 tl17.fromTo(".maja-word-himmerlandske", {
-     color: "#c4c4c4",
-		 duration: 0.5,
+	color: "#d33643",
+	duration: 0.5,
     }, 
     {
-     color: "#202020",
-     duration: 0.5,
+     	color: "#fdf5dc",
+     	duration: 0.5,
     });
 
 let tl18 = gsap.timeline({
@@ -222,12 +222,12 @@ let tl18 = gsap.timeline({
 });
 
 tl18.fromTo(".maja-word-brudepar", {
-     color: "#c4c4c4",
-		 duration: 0.5,
+	color: "#d33643",
+	duration: 0.5,
     }, 
     {
-     color: "#202020",
-     duration: 0.5,
+     	color: "#fdf5dc",
+     	duration: 0.5,
     });
     
 let tl19 = gsap.timeline({
@@ -239,12 +239,12 @@ let tl19 = gsap.timeline({
 });
 
 tl19.fromTo(".maja-word-med-second", {
-     color: "#c4c4c4",
-		 duration: 0.5,
+	color: "#d33643",
+	duration: 0.5,
     }, 
     {
-     color: "#202020",
-     duration: 0.5,
+     	color: "#fdf5dc",
+     	duration: 0.5,
     });
 
 let tl20 = gsap.timeline({
@@ -256,12 +256,12 @@ let tl20 = gsap.timeline({
 });
 
 tl20.fromTo(".maja-word-at-second", {
-     color: "#c4c4c4",
-		 duration: 0.5,
+	color: "#d33643",
+	duration: 0.5,
     }, 
     {
-     color: "#202020",
-     duration: 0.5,
+     	color: "#fdf5dc",
+     	duration: 0.5,
     });
     
 let tl21 = gsap.timeline({
@@ -273,12 +273,12 @@ let tl21 = gsap.timeline({
 });
 
 tl21.fromTo(".maja-word-fa", {
-     color: "#c4c4c4",
-		 duration: 0.5,
+	color: "#d33643",
+	duration: 0.5,
     }, 
     {
-     color: "#202020",
-     duration: 0.5,
+     	color: "#fdf5dc",
+     	duration: 0.5,
     });
     
 let tl22 = gsap.timeline({
@@ -290,12 +290,12 @@ let tl22 = gsap.timeline({
 });
 
 tl22.fromTo(".maja-word-realiseret", {
-     color: "#c4c4c4",
-		 duration: 0.5,
+	color: "#d33643",
+	duration: 0.5,
     }, 
     {
-     color: "#202020",
-     duration: 0.5,
+     	color: "#fdf5dc",
+     	duration: 0.5,
     });
     
 let tl23 = gsap.timeline({
@@ -307,12 +307,12 @@ let tl23 = gsap.timeline({
 });
 
 tl23.fromTo(".maja-word-deres", {
-     color: "#c4c4c4",
-		 duration: 0.5,
+	color: "#d33643",
+	duration: 0.5,
     }, 
     {
-     color: "#202020",
-     duration: 0.5,
+     	color: "#fdf5dc",
+     	duration: 0.5,
     });
     
 let tl24 = gsap.timeline({
@@ -324,10 +324,10 @@ let tl24 = gsap.timeline({
 });
 
 tl24.fromTo(".maja-word-drommebryllup", {
-     color: "#c4c4c4",
-		 duration: 0.5,
+	color: "#d33643",
+	duration: 0.5,
     }, 
     {
-     color: "#202020",
-     duration: 0.5,
+     	color: "#fdf5dc",
+     	duration: 0.5,
     });
