@@ -11,43 +11,43 @@ ScrollTrigger.create({
 let tl6 = gsap.timeline({
   scrollTrigger: {
     trigger: ".i-do-weddings-word-pin-1",
-		start: "top top",
-	  toggleActions: "restart none none reverse",
+	start: "top top",
+	toggleActions: "restart none none reverse",
   }
 });
 
 tl6.fromTo(".maja-word-jeg", {
-     color: "#c4c4c4",
-		 duration: 0.5,
+	color: "#c4c4c4",
+	duration: 0.5,
     }, 
     {
-     color: "#202020",
-     duration: 0.5,
+     	color: "#202020",
+     	duration: 0.5,
     });
 
 
 let tl7 = gsap.timeline({
   scrollTrigger: {
     trigger: ".i-do-weddings-word-pin-2",
-		start: "top top",
-	  toggleActions: "restart none none reverse",
+	start: "top top",
+	toggleActions: "restart none none reverse",
   }
 });
 
 tl7.fromTo(".maja-word-har", {
-     color: "#c4c4c4",
-		 duration: 0.5,
+     	color: "#c4c4c4",
+	duration: 0.5,
     }, 
     {
-     color: "#202020",
-     duration: 0.5,
+     	color: "#202020",
+     	duration: 0.5,
     });
 
 let tl8 = gsap.timeline({
   scrollTrigger: {
     trigger: ".i-do-weddings-word-pin-3",
-		start: "top top",
-	  toggleActions: "restart none none reverse",
+	start: "top top",
+	toggleActions: "restart none none reverse",
   }
 });
 
